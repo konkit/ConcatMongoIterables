@@ -9,6 +9,6 @@
         <appender-ref ref="STDOUT" />
     </root>
 
-    <logger name="org.mongodb.driver" level="ERROR"></logger>
-    <logger name="org.mongodb.driver.protocol.command" level="DEBUG"></logger>
+    <logger name="org.mongodb.driver" level="ERROR"/>
+    <logger name="org.mongodb.driver.protocol.command" level="DEBUG"/>
 </configuration>
